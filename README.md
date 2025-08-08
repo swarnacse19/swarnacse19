@@ -4,20 +4,19 @@
 <h1 align="center">Hi 👋, I'm Shaida Khanom Sharna</h1>
 <h3 align="center">💻 Full-Stack Web Developer (MERN Stack)</h3>
 
-<p align="center">
-   Currently learning <strong>Next.js</strong><br>
-   Working on <a href="https://knowlwdge-platform-auth.web.app/" target="_blank"><strong>KnowledgeNest</strong></a><br>
-</p>
-
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a Computer Science and Engineering undergraduate and a passionate Full-Stack Developer specializing in the **MERN Stack**. I build scalable and user-friendly web applications with clean, efficient code and a focus on delivering impactful digital experiences.
 
 I have completed 10+ full-stack projects including role-based dashboards, Stripe payment integration, knowledge-sharing platforms, charity donation management, and restaurant management tools.
 
+**Current Activities:**
+- Currently learning **Next.js**
+- Working on <a href="https://knowlwdge-platform-auth.web.app/" target="_blank"> **KnowledgeNest** </a>
 ---
+
 
 ### 🤝 Connect with Me
 
