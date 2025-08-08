@@ -2,7 +2,7 @@
   <img src="https://github.com/swarnacse19/swarnacse19/blob/main/banner.png" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Shaida Khanom Sharna</h1>
-<h3 align="center">💻 Full-Stack Web Developer (MERN Stack)</h3>
+<h3 align="center">💻 Full-Stack Web Developer (MERN)</h3>
 
 ---
 
