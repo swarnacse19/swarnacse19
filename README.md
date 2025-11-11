@@ -6,7 +6,7 @@
 
 ---
 
-### About Me
+### 👩‍💻 About Me
 
 I'm a Computer Science and Engineering undergraduate and a passionate Full-Stack Developer specializing in the **MERN Stack**. I build scalable and user-friendly web applications with clean, efficient code and a focus on delivering impactful digital experiences.
 
@@ -14,7 +14,7 @@ I have completed 10+ full-stack projects including role-based dashboards, Stripe
 
 **Current Activities:**
 - Currently learning **Next.js**
-- Working on <a href="https://share-hope.vercel.app/" target="_blank"> **ShareHope** </a>
+- Building **[ShareHope](https://share-hope.vercel.app/)** – a community platform for meaningful connections 
 ---
 
 
@@ -34,22 +34,22 @@ I have completed 10+ full-stack projects including role-based dashboards, Stripe
 ### 💻 Languages and Tools
 
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" /></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" /></a>
 </p>
 
 ---
@@ -57,15 +57,15 @@ I have completed 10+ full-stack projects including role-based dashboards, Stripe
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnacse19&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnacse19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnacse19&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swarnacse19&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnacse19&" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnacse19&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
