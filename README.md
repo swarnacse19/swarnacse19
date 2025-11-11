@@ -14,7 +14,7 @@ I have completed 10+ full-stack projects including role-based dashboards, Stripe
 
 **Current Activities:**
 - Currently learning **Next.js**
-- Working on <a href="https://knowlwdge-platform-auth.web.app/" target="_blank"> **KnowledgeNest** </a>
+- Working on <a href="https://share-hope.vercel.app/" target="_blank"> **ShareHope** </a>
 ---
 
 
