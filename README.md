@@ -1,68 +1,82 @@
 <p align="center">
   <img src="https://github.com/swarnacse19/swarnacse19/blob/main/Banner.png" alt="Banner" width="100%" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Shaida Khanom Sharna</h1>
-<h3 align="center">💻 MERN Stack Web Developer </h3>
+
+<h3 align="center">💻MERN Stack Web Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swarnacse19&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shaida-khanom-sharna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/shaidakhanom.sharna" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:sharna.cse9.bu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm a Computer Science and Engineering undergraduate and a passionate Full-Stack Developer specializing in the **MERN Stack**. I build scalable and user-friendly web applications with clean, efficient code and a focus on delivering impactful digital experiences.
+I'm a **Computer Science and Engineering** undergraduate and a passionate developer specializing in the **MERN Stack**. I love exploring new technologies and am currently focused on expanding my skills toward **Mobile App Development**.
 
-I have completed 10+ full-stack projects including role-based dashboards, Stripe payment integration, knowledge-sharing platforms, charity donation management, and restaurant management tools.
-
----
-
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/shaida-khanom-sharna" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40"/>
-  </a>
-  <a href="https://fb.com/shaidakhanom.sharna" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40"/>
-  </a>
-</p>
+- 🔭 **Working on:** Scalable web applications and interactive UI components.
+- ⚡ **Fun Fact:** I love reading stories and gaming in my free time.
+- 🛠️ **Experience:** Completed 10+ full-stack projects including Donation Platforms, Voting Systems, and Food Waste Reduction tools.
 
 ---
 
-### 💻 Languages and Tools
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="50" alt="React" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="50"alt="Tailwind CSS" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="50" alt="Java" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="50" alt="PHP" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="50" alt="C" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++" /></a>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Core Languages</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css&perline=3" alt="Frontend" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=3" alt="Backend" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,java,php,c,cpp&perline=3" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=swarnacse19&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnacse19&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnacse19&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnacse19&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnacse19&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnacse19" alt="GitHub Streak" />
+### 📊 Contribution Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=swarnacse19&theme=tokyonight&bg_color=0d1117&hide_border=true&color=ff9e64&line=ff9e64&point=ffffff" alt="GitHub Activity Graph" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
