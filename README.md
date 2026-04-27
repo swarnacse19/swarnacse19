@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Shaida Khanom Sharna</h1>
 
-<h3 align="center">💻MERN Stack Web Developer</h3>
+<h3 align="center">MERN Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swarnacse19&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
+  📍 Barishal, Bangladesh | 🎓Undergraduate at the University of Barishal
 </p>
 
 <p align="center">
